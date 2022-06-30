@@ -1,4 +1,4 @@
-# flash
+# Flash
 
 A new Flutter project.
 
